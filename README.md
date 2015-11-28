@@ -10,10 +10,10 @@ n:it seems no use?maybe!(-_-||)
 ##Some result
 I fetch the picture everyday when computer power on and put them into OneDriver cloud.there are some of them.
 All picture I fetched:
-![image]{https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/screenshot.JPG}
+![Image text](https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/sreenshot.JPG)
 My preference:
-![image]{https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/2015-11-13.png}
-![image]{https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/2015-11-28.png}
+![Image text](https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/2015-11-13.png)
+![Image text](https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/2015-11-28.png)
 
 ##licence
 The MIT License (MIT)
