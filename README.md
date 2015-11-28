@@ -5,7 +5,9 @@ The tool will fetch Bing(http://cn.bing.com) background image.
 http://cn.bing.com/HPImageArchive.aspx?format=xml&idx=0&n=1
 
 format:"xml"or"json".Meaning the return data's format,which contain the real url of bing background image.
+
 idx:how many days ago.For example idx=1,it means you want fetch yesterday's background image.
+
 n:it seems no use?maybe!(-_-||)
 
 
