@@ -1,11 +1,13 @@
 #WallpaperTool
 The tool will fetch Bing(http://cn.bing.com) background image.
+
 ##API guide:
 http://cn.bing.com/HPImageArchive.aspx?format=xml&idx=0&n=1
 
 format:"xml"or"json".Meaning the return data's format,which contain the real url of bing background image.
 idx:how many days ago.For example idx=1,it means you want fetch yesterday's background image.
 n:it seems no use?maybe!(-_-||)
+
 
 ##Some result
 I fetch the picture everyday when computer power on and put them into OneDriver cloud.there are some of them.
@@ -15,6 +17,7 @@ All picture I fetched:
 My preference:
 ![Image text](https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/2015-11-13.png)
 ![Image text](https://raw.githubusercontent.com/fallblank/WallpaperTool/master/result/2015-11-28.png)
+
 
 ##licence
 The MIT License (MIT)
